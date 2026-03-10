@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Oh Mymy : 7s",
+  "base_artist": "TWS",
+  "createdAt": "2026-03-10T11:59:09.417668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oh Mymy : 7s",
+      "artist": "TWS",
+      "has_synced": true,
+      "path": "select/01_Oh_Mymy___7s_TWS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oh Mymy : 7s",
+      "artist": "TWS",
+      "has_synced": false,
+      "path": "select/02_Oh_Mymy___7s_TWS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Oh Mymy : 7s",
+      "artist": "TWS",
+      "has_synced": false,
+      "path": "select/pl_01_Oh_Mymy___7s_TWS.txt"
+    }
+  ]
+}
